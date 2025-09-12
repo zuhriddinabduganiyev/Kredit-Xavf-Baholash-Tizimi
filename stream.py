@@ -16,6 +16,10 @@ from datetime import datetime
 import time
 warnings.filterwarnings('ignore')
 
+
+
+
+
 # Sahifa konfiguratsiyasi
 st.set_page_config(
     page_title="🏦 Kredit Xavf Baholash Tizimi",

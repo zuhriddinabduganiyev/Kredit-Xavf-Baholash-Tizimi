@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+seaborn
+matplotlib
+openpyxl
+xlrd
+requests
+beautifulsoup4
+lxml
+flask
+django
+sqlalchemy
+pytest
