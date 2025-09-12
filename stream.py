@@ -22,7 +22,7 @@ warnings.filterwarnings('ignore')
 
 # Sahifa konfiguratsiyasi
 st.set_page_config(
-    page_title="🏦 Kredit Xavf Baholash Tizimi",
+    page_title="🏦 Kredit Xavf Baholash Tizimi | @neoklassiklar",
     page_icon="🏦",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -232,7 +232,7 @@ def main():
 
     # Sidebar
     with st.sidebar:
-        st.markdown("## ⚙️ Boshqaruv Paneli")
+        st.markdown("## Boshqaruv Paneli")
         
         # Navigatsiya
         page = st.selectbox(
@@ -530,7 +530,7 @@ def main():
     <div style='text-align: center; color: #666; padding: 1rem;'>
         🏦 Kredit Xavf Baholash Tizimi v2.0 | 
         Ishlab chiqilgan Machine Learning yordamida | 
-        © 2024 Credit Risk Solutions
+        © 2025 Credit Risk Solutions | @neoklassiklar
     </div>
     """, unsafe_allow_html=True)
 
