@@ -15,7 +15,7 @@ import warnings
 from datetime import datetime
 import time
 import pickle
-import shap
+# import shap
 from fpdf import FPDF
 warnings.filterwarnings('ignore')
 
