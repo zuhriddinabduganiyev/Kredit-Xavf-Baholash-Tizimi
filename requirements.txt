@@ -14,3 +14,11 @@ flask
 django
 sqlalchemy
 pytest
+shap
+fpdf
+xgboost
+lightgbm
+catboost
+os
+datetime
+time 
