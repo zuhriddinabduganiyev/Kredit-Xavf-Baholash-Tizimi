@@ -819,7 +819,7 @@ def main():
                 mime="application/pdf"
             )
 
-        import shap
+        # import shap
 
         # SHAP tahlili va tavsiya funksiyasini olib tashlang
         # if result_df is not None and output is not None:
